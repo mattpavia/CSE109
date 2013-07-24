@@ -1,0 +1,17 @@
+$ test out the clear operation
+
+$ expect 3, 0, 6, 0
+enter 3
+x+
+x+
+getScreen
+clear
+getScreen
++x
+getScreen
+clear x
+clear 
++x
+getScreen  
+end
+

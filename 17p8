@@ -1,0 +1,4 @@
+$  error: x is undefined
+
+push x(2)
+end

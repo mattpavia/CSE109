@@ -1,0 +1,9 @@
+$ expected output 3.5
+enter 3
+ x+
+enter 4
+ y+
+push 2*3+4/0
+pop
+getScreen
+end

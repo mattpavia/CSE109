@@ -1,0 +1,9 @@
+$expect -5
+$  and 4
+push 2-3-4
+pop
+getScreen
+push  40/5/2
+pop
+getScreen
+end
