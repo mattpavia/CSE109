@@ -1,6 +1,0 @@
-$ lots of parentheses?
-
-
-push (((((((((8)))))))))
-getScreen    $expect 8
-end
