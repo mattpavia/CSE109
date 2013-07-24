@@ -1,0 +1,4 @@
+$syntax error
+push 3   $okay
+push -3   $error
+end

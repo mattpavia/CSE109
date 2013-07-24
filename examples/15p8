@@ -1,0 +1,13 @@
+$ test +,-,*,/ with variables
+$ expect -1.68
+enter 3
+x +
+enter 4.2
+y +
+clear
++x
+-y
+/x
+*y
+getScreen  $expect -1.68
+end

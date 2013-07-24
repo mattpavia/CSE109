@@ -1,0 +1,11 @@
+$ read data from input
+$ expected output 19.5
+enter
+push
+enter
+push
+stack+
+pop
+getScreen
+end
+28.7 -9.2
