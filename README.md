@@ -1,7 +1,7 @@
 CSE109
 ======
 
-My final project for CSE109 (Systems Software) at Lehigh University
+My final project for CSE109 (Systems Software) at Lehigh University. It is a compiler that takes a file containing directions and outputs the result.
 
 USAGE
 =====
